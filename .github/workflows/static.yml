@@ -127,7 +127,7 @@ function saveQRCode() {
         width: 128,
         height: 128
     });
-// minor difference
+    // working
     setTimeout(function () {
         let canvas = document.querySelector("#qrcode canvas");
         let image = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
