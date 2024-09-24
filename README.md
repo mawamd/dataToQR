@@ -1,4 +1,4 @@
-# dataToQR
+# dataqr
 sample HTML form that saves the information as a QR code
 
 Do you ever get tired of answering the same questions over and over?
